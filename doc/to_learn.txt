@@ -1,5 +1,10 @@
-1.集合、多线程、NIO
+1.集合、多线程（java并发包）、NIO、JVM原理、反射、类加载
 2.Spring、Spring MVC、Mybaits，实现及原理
 3.Mysql数据库 深入了解
 4.Redis等缓存数据库
 5.消息队列，RabbitMQ/ActiveMQ等
+6.微服务框架 spring cloud及相关工具
+7.git等项目管理工具
+8.Linux使用
+
+思维导图 功能设计能力
